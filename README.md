@@ -1,7 +1,7 @@
-# Image-Encryption-Compression
+# Image-Encryption-Compression C#
 
 
-## Please Read the Notes (Important). C#
+## Please Read the Notes (Important).
 ## Please Download the rar file it is containing the project file.
 ## Please look at the Project Demo Video it is a very helpful guide to go through the project.
 ## Note that Paths in compression and decompression are fixed to change them you've to change them from the following files.
